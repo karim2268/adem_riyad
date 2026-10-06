@@ -1,0 +1,6 @@
+{
+  "name": "فضاء الرياضيات",
+  "description": "رحلة استكشاف فضائية ممتعة لآدم لتعلم وتحدي الرياضيات للسنة الخامسة أساسي بتونس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
